@@ -1,5 +1,5 @@
 version: STSv1
-mode: enfore
+mode: enforce
 mx: activatejordansbooklist-com.mail.protection.outlook.com
 mx: mail.feedback-smtp.us-west-2.amazonses.com
 max_age: 604800             
